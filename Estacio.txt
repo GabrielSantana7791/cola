@@ -1,0 +1,814 @@
+Exercícios
+1. A escolha de uma estratégia está no centro do direcionamento das ações de uma
+organização. Desse modo, é necessário haver bastante dedicação para se obter uma boa
+definição de uma estratégia. Marque a opção correta a respeito dos elementos que devem
+fazer parte do planejamento estratégico.
+Alinhar com as diversas partes da organização para compatibilizar planos e ações.
+A definição da estratégia de uma organização é fundamental para que ela alcance seus
+objetivos. A estratégia, portanto, deve ser fruto de um planejamento cuidadoso que envolva as
+diversas partes da organização a fim de se obter um alinhamento, o que potencializará a
+obtenção de ótimos resultados.
+2. A concretização do planejamento estratégico se dá na confecção do plano de ação. Isso
+ocorre pela necessidade natural de direcionar as pessoas na realização de suas tarefas
+para que a organização atinja seus objetivos. Assinale a opção correta a respeito do plano
+de ação.
+Estabelece atividades e meios de verificar o desempenho delas.
+O plano de ação é a formalização do planejamento estratégico. Por meio dele, é possível
+identificar as atividades que precisam ser realizadas para que a organização alcance seus
+objetivos. Além disso, ele possibilita a avaliação de como tais atividades são realizadas,
+oferecendo, assim, uma transparência sobre a execução dos processos e os subsídios para
+que os gestores, quando necessário, façam ajustes.
+3. A tecnologia da informação (TI) é um importante elemento empregado para aumentar a
+vantagem competitiva de uma organização. No entanto, é necessário que a aplicação dela
+esteja alinhada ao planejamento estratégico. Selecione a opção correta a respeito do
+alinhamento entre a TI e o planejamento estratégico da organização.
+As ferramentas de TI ajudam a registrar dados que podem ser analisados
+posteriormente.
+As ferramentas de TI que abrangem componentes de software e hardware são úteis para a
+realização do registro das ações planejadas e realizadas a fim de que elas possam servir como
+base de conhecimento depois de analisadas e, com isso, auxiliar na melhoria da qualidade do
+planejamento da organização.
+4. Atualmente, é bastante comum se ouvir tal expressão: “O dado é o novo petróleo”. De
+forma semelhante, é necessário fazer o refinamento do dado para que ele gere um valor
+agregado. Aponte a opção correta a respeito do valor do dado para o sucesso do
+planejamento estratégico de uma organização.
+E necessário estabelecer métodos que sejam uteis para analisar os dados com o apoio
+de ferramentas de TI.
+A informação é um ativo precioso para qualquer organização independentemente do setor de
+atuação. Ela, afinal, é o resultado do dado devidamente processado. Porém, para que tenha
+valor, são necessários vários prerrequisitos, como a qualidade e a frequência de
+armazenamento, um processo bem estabelecido de análise, o uso de ferramentas adequadas
+para armazenamento, processamento e análise e, principalmente, contar com pessoas bem–
+treinadas e motivadas para realizar todos esses processos.
+Impresso por Gabriel de Paula Santana, E-mail gabrielsantana7791@gmail.com para uso pessoal e privado. Este material pode ser
+protegido por direitos autorais e não pode ser reproduzido ou repassado para terceiros. 15/08/2024, 19:01:36
+Indicadores de Desempenho de TI
+Marcio Quirino - 3
+5. Os gestores responsáveis pelo planejamento estratégico das organizações buscam
+identificar constantemente oportunidades capazes de melhorar o desempenho dos
+negócios. No entanto, esse processo está longe de ser trivial. Marque a opção correta a
+respeito da priorização de oportunidades.
+Independentemente da metodologia escolhida para se priorizar, o objetivo deve ser o de
+melhorar o estado atual da organização.
+Identificar oportunidades para uma organização já configura uma tarefa desafiadora por si só,
+pois é necessário que ela esteja vinculada a muitos fatores a fim de que realmente faça sentido
+analisá-la; caso contrário, ela vai gerar apenas perda de energia. Depois da etapa da
+identificação, é necessário priorizar quais delas precisam ser tratadas. Há algumas
+metodologias possíveis para essa finalidade, mas qualquer uma escolhida deve focar a
+melhoria do estado atual da organização, respeitando as leis e agindo de forma ética.
+6. A priorização de oportunidades é uma das etapas do planejamento estratégico. É um fato
+conhecido que esse processo exige muita atenção e deve ser apoiado por ferramentas
+de TI. O problema da mochila nos dá uma boa ideia da quantidade de questões que
+precisamos considerar ao realizarmos uma priorização de qualidade. Selecione a opção
+correta a respeito da aplicação do problema da mochila para fazer a priorização de
+oportunidades.
+O problema da mochila considera as restrições de recursos para priorizar a escolha das
+oportunidades.
+O problema da mochila é um modelo matemático clássico aplicado para priorizar a escolha dos
+itens que devem ser colocados em uma mochila, respeitando a capacidade dela, de tal modo
+que ocorra a melhor escolha possível. Claramente, ele pode ser aplicado para a priorização de
+oportunidades. No entanto, é necessário um conhecimento específico para inserir os dados no
+modelo, resolvê-lo e interpretar o resultado. Além disso, estabelecer os próprios parâmetros do
+modelo também é um desafio, já que se trata de um processo que possui subjetividade.
+7. Existem diferentes desafios que os gestores precisam superar para atingir os objetivos
+dos planos estratégicos da organização. Felizmente, há metodologias, como a ágil, que
+podem auxiliá-los a atingir seus alvos. Marque a opção correta a respeito dos benefícios
+de aplicação da metodologia ágil para a gestão empresarial.
+Auxilia a estabelecer fronteiras dos escopos dos projetos.
+A metodologia ágil é caracterizada pela capacidade de se adaptar a diversos contextos, não
+sendo vinculada a nenhum tipo de tecnologia específica, já que se trata de um processo que
+visa aumentar a comunicação e a colaboração entre as partes envolvidas no desenvolvimento
+de soluções.
+8. As metodologias ágeis auxiliam a alcançar uma gestão empresarial eficiente. No entanto,
+é fundamental dispor de uma forma objetiva para medir tal eficiência – e é justamente
+nesse momento que entram as métricas das metodologias ágeis. Aponte a opção correta
+a respeito da utilização das métricas dessas metodologias.
+Para as métricas serem uteis, e primordial que haja um registro de qualidade dos dados
+dos processos monitorados.
+As metodologias ágeis dispõem de diversas métricas bem definidas que nos ajudam a
+acompanhar a realização das muitas tarefas dentro de uma organização. Entretanto, a
+efetividade de uma análise está condicionada a um processo de registro dos dados. Sem os
+dados, é impossível realizar medições e, claro, obter análises que auxiliem no direcionamento
+dos esforços dentro de um projeto.
+Impresso por Gabriel de Paula Santana, E-mail gabrielsantana7791@gmail.com para uso pessoal e privado. Este material pode ser
+protegido por direitos autorais e não pode ser reproduzido ou repassado para terceiros. 15/08/2024, 19:01:36
+Indicadores de Desempenho de TI
+Marcio Quirino - 4
+9. Indicador de desempenho é uma métrica ou combinação de métricas que tem o objetivo
+de fornecer informações a uma empresa para avaliação de sua performance no mercado.
+Esses indicadores podem operacionais, táticos e estratégicos. Assinale a alternativa que
+descreve os indicadores táticos:
+São aqueles que mostram informações contextuais e a capacidade de explorar os dados.
+Os indicadores táticos não apresentam dados tão fidedignos quanto os operacionais, pois seu
+caráter é mais analítico. Eles tendem a orientar os gestores no processo de tomada de decisão.
+10. Medir o processo de software e seus serviços é considerado um fator crítico de sucesso
+para as empresas, já que essa medição fornece os indicadores para os gestores
+acompanharem o andamento dos projetos de TI. A literatura é muito rica nesse aspecto
+e traz várias informações sob diferentes pontos de vista sobre como esse
+acompanhamento deve ocorrer. Nesse contexto, assinale a alternativa correta:
+A empresa deve fazer as medições dos indicadores operacionais, táticos e estratégicos
+e analisar cada um dos casos. Assim, terá diferentes visões e tomara as decisões mais
+embasadas em seus projetos.
+Para conhecer uma empresa, devemos extrair vários indicadores de seus processos, seus
+objetivos e suas ações. Eles não são iguais, pois mostram resultados de diferentes pontos do
+processo. Cada empresa deve verificar os indicadores que são mais interessantes para ela,
+pois os objetivos estratégicos podem ser distintos. Dessa forma, diferentes indicadores são
+relevantes, e todas as classificações devem ser consideradas.
+11. A gestão de demandas trata de tudo o que é solicitado para a área de TI em termos de
+desenvolvimento e serviços. Seu intuito é evitar a sobrecarga de tarefas, para que os
+times consigam trabalhar de forma produtiva. Existem melhores práticas sugeridas pela
+literatura que apoiam o gerenciamento das demandas. Assinale a alternativa que
+descreve uma delas:
+Estabelecer critérios de prioridades para o atendimento das demandas.
+A gestão de demandas tem como objetivos identificar prioridades, estabelecer as decisões mais
+urgentes e melhorar os resultados dentro da área de TI.
+12. O processo de gerenciamento da capacidade analisa as demandas de uma empresa de
+TI, identificando o quanto ela consegue atender. Essa análise é detalhada, até porque, em
+muitos casos, a capacidade de atendimento pode mudar, dependendo do time ou dos
+recursos disponíveis naquele momento. Além disso, as demandas variam ao longo do
+tempo. A ITIL apresenta algumas classificações para o gerenciamento da capacidade.
+Assinale a alternativa que lista essas classificações:
+Gerenciamento da capacidade de negócio, gerenciamento da capacidade de serviço e
+gerenciamento da capacidade de recursos.
+O gerenciamento da capacidade de negócio tem por objetivo assegurar que as necessidades
+da empresa serão consideradas. O gerenciamento da capacidade de serviço tem por objetivo
+garantir que os serviços sejam cumpridos conforme o acordado. E o gerenciamento da
+capacidade de recursos tem por objetivo controlar os recursos individuais de TI.
+Impresso por Gabriel de Paula Santana, E-mail gabrielsantana7791@gmail.com para uso pessoal e privado. Este material pode ser
+protegido por direitos autorais e não pode ser reproduzido ou repassado para terceiros. 15/08/2024, 19:01:36
+Indicadores de Desempenho de TI
+Marcio Quirino - 5
+13. Uma sigla muito conhecida na área dos negócios, especialmente na gestão estratégica,
+é KPI (Key performance indicator) ou indicador-chave de desempenho. É um indicador
+que representa o desempenho de um processo e traz uma visão dos resultados obtidos
+por uma empresa, permitindo compreender seu funcionamento.
+Analise as afirmativas a seguir a respeito das características desejáveis dos KPIs:
+I. Devem estar disponíveis para serem medidos sempre que necessário.
+II. Devem poder ser medidos pelo menos uma vez ao ano, já que é no planejamento do
+ano seguinte que são utilizados.
+III. Devem ser relevantes ao negócio da empresa, pois a medição tem um custo, e medir
+algo desnecessariamente pode trazer prejuízo para a organização.
+IV. Devem ter múltiplas interpretações, de modo que possa haver longas discussões
+sobre eles para decidir qual a melhor forma de utilizá-los.
+Está(ão) correta(s) a(s) afirmativa(s):
+I e III.
+Os KPIs devem ser medidos com frequência, sempre que necessário, pois sua informação é
+muito importante em vários momentos para a empresa. Mas esses indicadores não podem ser
+ambíguos, com inúmeras interpretações. Em sua descrição, deve estar bem definido o que é
+cada KPI, o que se espera dele, e como ele deve ser medido.
+14. O conceito de Balanced Scorecard (BSC) foi desenvolvido pelos professores Robert
+Kaplan e David Norton, da Harvard Business School, na década de 1980, como uma
+solução para gerenciar o progresso dos negócios.
+Essa ferramenta de apoio empresarial indica que as organizações devem ser avaliadas a
+partir de quatro perspectivas que incluem determinados KPIs. Numere a coluna da direita
+de acordo com sua correspondência com a coluna da esquerda, associando as quatro
+perspectivas apresentadas pelo BSC:
+1. Financeiro
+2. Clientes e stakeholders
+3. Processos internos
+4. Capacidade organizacional
+( ) KPIs que demonstram o desempenho e o uso de recursos financeiros da empresa.
+( ) KPIs que monitoram o desempenho organizacional, considerando as capacidades da
+empresa para a inovação.
+( ) KPIs que monitoram o desempenho organizacional, considerando a qualidade e a
+eficiência dos produtos e serviços oferecidos pela empresa.
+( ) KPIs que refletem o desempenho organizacional do ponto de vista dos clientes ou de
+outras partes interessadas.
+Assinale a alternativa que apresenta a sequência correta:
+1-4-3-2
+O BSC é uma metodologia de gestão de desempenho que utiliza um quadro estratégico para
+equilibrar os indicadores, as metas e os objetivos da empresa.
+Impresso por Gabriel de Paula Santana, E-mail gabrielsantana7791@gmail.com para uso pessoal e privado. Este material pode ser
+protegido por direitos autorais e não pode ser reproduzido ou repassado para terceiros. 15/08/2024, 19:01:36
+Indicadores de Desempenho de TI
+Marcio Quirino - 6
+15. Os key risk indicators (KRIs) são indicadores sobre os principais riscos aos quais uma
+organização está exposta. Em outras palavras, representam as métricas utilizadas pelas
+empresas para verificar qual é o potencial de exposição a determinado risco. Com eles,
+os gestores monitoram o nível de risco de um projeto ou da própria empresa.
+Analise as afirmativas a seguir sobre esses indicadores-chave de risco:
+I. É necessário utilizar os KRIs para mensurar a probabilidade de risco, pois é muito
+importante saber quais as chances de esse risco ocorrer.
+II. É dispensável utilizar os KRIs para medir o impacto do risco, pois diante de sua
+ocorrência, não importa como afetará o projeto.
+III. Cabe utilizar KRIs para mensurar o plano de ação da empresa, pois é a partir deles que
+a organização saberá quais atitudes tomará caso um risco exista.
+Está(ão) correta(s) a(s) afirmativa(s):
+I e III.
+É muito importante utilizar os KRIs referentes ao impacto de risco, pois a probabilidade e
+impacto são conceitos diferentes, e ambos devem ser conhecidos. A probabilidade indica as
+chances de o risco existir, e o impacto trata de quando a empresa será afetada caso o risco de
+fato exista. Se esse valor for alto ou baixo, diferentes ações devem ser tomadas.
+16. Os KRIs são instrumentos de gestão utilizados nas atividades de monitoramento e
+avaliação de riscos das organizações, com foco na probabilidade, no impacto e no mapa
+do risco. Com esses indicadores, é possível realizar um mapeamento de como
+determinado risco impactará os objetivos da empresa e pensar nas ações a serem
+tomadas.
+Mas, para que os KRIs sejam efetivos, devemos tomar cuidado e escolher bons
+indicadores-chave de risco, que tenham realmente importância para a empresa. Assinale
+a alternativa que descreve uma boa característica de um KRI:
+Especificidade sobre o que se espera como resultado desse indicador.
+Para serem úteis e bem utilizados pela gestão, os KRIs devem ser sempre quantificáveis e ter
+descrições completas que indiquem exatamente o que se espera com aquele resultado. Valores
+ambíguos, com mais interpretações, atrapalham o processo da gestão em analisar os dados.
+17. A metodologia OKR tem suas origens em outra metodologia: a MBO. Ao estudarmos os
+princípios básicos da MBO, encontramos muitas semelhanças com a OKR e importantes
+diferenças. Nesse sentido, selecione a opção correta a respeito dos elementos que
+levaram à necessidade de evoluir a MBO para a OKR:
+A MBO não eliminava a subjetividade quando os objetivos eram definidos.
+A metodologia MBO trouxe um grande avanço para a gestão de negócios. No entanto, como
+era de se esperar, ela continha pontos que precisaram ser ajustados posteriormente com a
+OKR. Um desses pontos era a possibilidade de haver subjetividade na definição dos objetivos,
+o que dificultava o entendimento dos profissionais que deveriam trabalhar para alcançá-los.
+Impresso por Gabriel de Paula Santana, E-mail gabrielsantana7791@gmail.com para uso pessoal e privado. Este material pode ser
+protegido por direitos autorais e não pode ser reproduzido ou repassado para terceiros. 15/08/2024, 19:01:36
+Indicadores de Desempenho de TI
+Marcio Quirino - 7
+18. A OKR é uma importante metodologia para alinhar os objetivos da organização com
+métricas para realizar a evolução das tarefas. Dessa forma, uma de suas vantagens está
+na transparência que ela proporciona de como os processos estão progredindo para
+alcançar as metas da organização, mas há outros benefícios também. Nesse sentido,
+selecione a opção correta a respeito dos benefícios da metodologia OKR:
+Estabelece um alinhamento entre as metas da organização com as dos colaboradores
+envolvidos.
+A metodologia OKR se mostrou bastante eficiente na prática, sendo utilizada por organizações
+muito importantes, como o Google. Um dos benefícios de utilizar a OKR é o aumento da
+transparência de como as tarefas são executadas e como o seu progresso influencia a
+obtenção das metas da organização. Outro benefício está no alinhamento entre os objetivos da
+organização com os dos colaboradores, aumentando, assim, o engajamento destes últimos
+para que a organização atinja os resultados planejados.
+19. Para obter uma OKR que seja simples de entender é preciso muito trabalho do gestor.
+Isso ocorre porque ela deve direcionar os esforços dos envolvidos e alocação de
+recursos para alcançar os resultados planejados. Nesse sentido, selecione a opção
+correta a respeito dos elementos necessários para a construção das OKRs:
+As OKRs devem ter uma correspondência estreita com a visão da organização.
+A definição das OKRs só deve ocorrer depois do claro entendimento da visão e missão da
+organização. Isso acontece porque a finalidade delas é criar uma estrutura de trabalho alinhada
+à estratégia da organização, ou seja, a OKR é um meio, não um fim.
+20. Um dos motivos para que a metodologia OKR tivesse sucesso foi o fato de criar um
+ambiente colaborativo e organizado. A definição de objetivos e de resultados-chaves
+auxiliam no direcionamento dos esforços para atingir excelentes resultados. Outro
+elemento importante dessa metodologia é a iniciativa. Nesse sentido, selecione a opção
+correta a respeito da importância da iniciativa no processo de criação de OKRs:
+Constituem-se no detalhamento das tarefas que compõem os resultados-chaves.
+As iniciativas são um dos componentes básicos da OKR. Elas são fundamentais no processo
+de construção de OKRs, pois detalham o que deve ser feito para que os alvos estabelecidos
+pelos resultados-chaves sejam alcançados. Sem elas, não haveria um direcionamento claro do
+que deveria ser feito e, como consequência, teríamos um processo com muitas oportunidades
+de improvisos.
+21. A OKR é uma metodologia com excelentes resultados práticos em importantes empresas
+como o Google, por exemplo. Estabelecer objetivos, criar resultados-chaves e construir
+iniciativas são componentes fundamentais da OKR, mas é necessário realizar o
+monitoramento do processo. Nesse sentido, selecione a opção correta a respeito do
+monitoramento das OKRs:
+O acompanhamento das tarefas pode ser feito por meio dos processos de uma
+metodologia ágil.
+A OKR tem como pontos fortes o direcionamento da construção e execução de ações para
+alcançar objetivos que estejam alinhados com a estratégia da organização e o estabelecimento
+de métricas claras, por meio dos resultados-chaves que nos ajudam a acompanhar a evolução
+dos processos. Então, é fundamental utilizar uma metodologia, como a dos métodos ágeis,
+para acompanhar como as tarefas estão sendo feitas e se é necessário realizar ajustes.
+Impresso por Gabriel de Paula Santana, E-mail gabrielsantana7791@gmail.com para uso pessoal e privado. Este material pode ser
+protegido por direitos autorais e não pode ser reproduzido ou repassado para terceiros. 15/08/2024, 19:01:36
+Indicadores de Desempenho de TI
+Marcio Quirino - 8
+22. Gerir um projeto é mais complexo do que pode parecer. Um dos motivos para que isso
+ocorra são os imprevistos com origem tanto em fatores humanos quanto em externos.
+Uma boa forma de minimizar o efeito desses fatores sobre o ciclo do projeto é realizar um
+planejamento cuidadoso. Mas mesmo isso, por si só, não é suficiente. Nesse sentido,
+selecione a opção correta a respeito do que devemos evitar na implementação de OKRs:
+Não revisitar e nem ajustar OKRs ao longo do ciclo de vida do projeto.
+Um erro ao implementar a metodologia OKR para fazer a gestão de um projeto é definir os
+objetivos, traçar os resultados-chaves e criar as iniciativas e, depois, não realizar o
+acompanhamento do projeto. É importante usar os componentes da OKR como indicadores
+que auxiliam a medir a evolução dos trabalhos e se devemos realizar ajustes.
+23. A metodologia OKR se baseia em três pilares essenciais. Acerca de seus conceitos,
+considere a frase abaixo:
+"Aprender OKR em 7 dias"
+Agora, selecione a opção correta que apresenta o componente a que ela se refere.
+Resultado-chave.
+24. Um dos pontos fortes da OKR é a simplicidade do entendimento dos seus componentes.
+Mas construir uma OKR é fácil? Selecione a opção que responde corretamente a esta
+pergunta.
+Não é fácil construir uma OKR, pois, para ser simples, é necessário bastante trabalho
+por parte dos responsáveis pelo planejamento.
+25. Considere o seguinte exemplo de resultado-chave:
+"Vender 5.000 licenças de um determinado software até o final do primeiro semestre do
+ano XZ"
+Agora, selecione a opção correta a respeito desse resultado-chave.
+Está correto, pois apresenta o que deve ser medido e o prazo.
+26. Um dos benefícios de utilizar a OKR reside no aumento da transparência de como as
+tarefas são executadas e como o seu progresso influencia a obtenção das metas da
+organização. Selecione a opção correta que apresenta um elemento fundamental na
+construção de OKRs na prática.
+Engajar as partes envolvidas.
+27. Existem algumas ferramentas computacionais que podem ser utilizadas para dar suporte
+ao uso da metodologia OKR. Algumas delas utilizam um recurso de cores que podem ser
+associadas às tarefas. Neste sentido, selecione a opção correta a respeito do recurso de
+cores associados às tarefas.
+Auxiliam a destacar o progresso das tarefas.
+28. Considere a metodologia OKR e seus componentes fundamentais. Agora, selecione a
+opção que apresenta um exemplo de resultado-chave.
+Aumentar a produção de equipamentos em 30% no primeiro trimestre do ano.
+29. Uma das características da metodologia OKR é que a descrição dos objetivos deve ser
+concisa. Selecione a opção correta em relação à concisão de um objetivo.
+Deve ser capaz de transmitir aonde a organização quer chegar com poucas palavras.
+Impresso por Gabriel de Paula Santana, E-mail gabrielsantana7791@gmail.com para uso pessoal e privado. Este material pode ser
+protegido por direitos autorais e não pode ser reproduzido ou repassado para terceiros. 15/08/2024, 19:01:36
+Indicadores de Desempenho de TI
+Marcio Quirino - 9
+30. A utilização de indicadores de desempenho tem atuação em vários tipos de empresas.
+Marque a opção correta com base no porte das empresas.
+Pequenas empresas ¿ Os indicadores atuam de forma direta na avaliação de viabilidade
+de negócio
+31. Marque a opção CORRETA referente ao indicador de TAXA DE SUCESSO.
+Analisa o percentual de contratos por negociação
+32. A metodologia OKR fornece benefícios imediatos desde que o seu processo de
+implementação seja bem executado. Selecione a opção com a quantidade ideal de
+resultados-chaves por objetivo na metodologia OKR.
+De três a cinco.
+33. Sobre o atributo REPRESENTABILIDADE, pode-se afirmar que:
+Abordam suas relevâncias e permitem a indicação de métricas válidas para a avaliação
+do processo.
+34. Em relação à metodologia ágil Scrum, selecione a opção correta que apresente a fase
+responsável por averiguar a evolução das tarefas estabelecidas durante o planejamento
+da Sprint.
+Revisão do Sprint.
+35. Marque a opção que corresponda às atividades que possam ser mensuradas.
+Atividades que geram valores
+36. Em uma determinada organização, o responsável pelo planejamento resolveu aplicar a
+seguinte situação:
+"Para incentivar que nossos colaboradores se superem, vamos trabalhar com metas
+inalcançáveis".
+Considerando os seus conhecimentos sobre OKR, selecione a opção correta a respeito
+da situação apresentada na questão.
+É completamente contrário à efetividade da OKR.
+37. A operação efetiva de qualquer negócio é essencial para concretizar resultados
+excelentes. É por meio dela que as organizações criam, desenvolvem e vendem serviços
+e produtos. Por isso mesmo, é fundamental haver um controle muito próximo sobre como
+ela evolui. Nesse sentido, selecione a opção correta a respeito das métricas e KPIs
+operacionais.
+Desenvolver métricas operacionais e uma etapa necessária para a criação de KPIs
+operacionais.
+Métricas e KPIs operacionais relacionam-se entre si por meio de uma relação de precedência,
+ou seja, os KPIs utilizam as métricas como fonte primária de dados. No caso da operação, fazer
+o monitoramento dos KPIs é fundamental para tentar identificar qualquer desvio e, quando eles
+forem encontrados, fazer ajustes.
+Impresso por Gabriel de Paula Santana, E-mail gabrielsantana7791@gmail.com para uso pessoal e privado. Este material pode ser
+protegido por direitos autorais e não pode ser reproduzido ou repassado para terceiros. 15/08/2024, 19:01:36
+Indicadores de Desempenho de TI
+Marcio Quirino - 10
+38. Criar KPIs é apenas uma etapa da gestão efetiva. O próximo passo é criar uma rotina de
+acompanhamento desses KPIs que permita identificar desvios para que os gestores
+possam atuar rapidamente. Nesse sentido, selecione a opção correta a respeito da
+avaliação do desempenho operacional:
+Antes de realizar a formalização do processo de análise, e necessário estabelecer
+parâmetros.
+Os KPIs são apenas um instrumento para análise. Em seu processo de criação, precisamos
+quantificar comportamentos dos aspectos operacionais. Por exemplo, qual o volume de vendas
+esperado para um determinado mês? Sem o estabelecimento de parâmetros, a análise perde
+a objetividade.
+39. Formalizar processos é uma etapa muito importante para obtermos a gestão efetiva. Isso
+não quer dizer que devamos eliminar as soluções criativas; no entanto, elas devem ser
+usadas em situações que realmente demandem por elas. Nesse sentido, selecione a
+opção correta a respeito da importância do monitoramento dos indicadores estratégicos.
+Soluções padronizadas podem ser monitoradas e escaladas.
+A estratégia de uma organização está relacionada aos objetivos que ela deseja alcançar.
+Portanto, é aqui que os planos devem ser criados ao mesmo tempo que também é necessário
+estabelecer os KPIs que serão utilizados para acompanhar sua execução. Um planejamento
+de qualidade permite padronizar soluções, etapa necessária para o crescimento de um negócio.
+40. Nem sempre é possível realizarmos medidas diretas sobre os aspectos que envolvem um
+negócio. No entanto, em muitos casos, é possível distinguirmos níveis de valoração. Isso
+ocorre, por exemplo, com o NPS. Nesse sentido, selecione a opção correta a respeito dos
+conceitos de medida e quantificação.
+Sempre que possível, devemos associar medidas para os indicadores, pois elas
+aumentam a objetividade da análise.
+As medidas são uma forma direta de relacionar um processo a uma importância de valor. Por
+exemplo, calcular o volume de vendas em um determinado mês não é algo subjetivo. Isso
+facilita bastante direcionar a análise e tomar ações. No entanto, devemos ficar atentos para
+situações de medidas subjetivas que podem ser quantificadas, pois, quando fazemos isso,
+aumentamos os recursos da nossa análise, mesmo com o grau de subjetividade desse
+processo.
+41. No dia a dia das organizações, sempre existem muitas tarefas que devem ser realizadas.
+Por outro lado, os recursos disponíveis para executar essas tarefas é limitado. Então, é
+fundamental que os gestores utilizem critérios que auxiliem na sua priorização. Nesse
+sentido, selecione a opção correta a respeito da priorização de tarefas.
+A priorização efetiva deve combinar a importância da tarefa para o negócio e a
+disponibilidade para realizá-la.
+Todas as tarefas dentro de uma organização são importantes e devem ser realizadas em algum
+momento. No entanto, é fundamental diferenciar o quão importantes elas são e se temos os
+recursos necessários para executá-las. Quando realizamos uma priorização eficiente,
+aumentamos as chances de obtermos excelentes resultados
+
+42. O planejamento das tarefas é um processo que envolve técnica e criatividade, pois nem
+todos os critérios de escolha são objetivos. Existem muitas metodologias que auxiliam
+na gestão efetiva; uma delas é a gestão por metodologias ágeis, sendo que uma das mais
+conhecidas é a Scrum. Ela possui um artefato, o backlog, que é fundamental no processo
+de planejamento de tarefas. Nesse sentido, selecione a opção correta a respeito dele. O backlog corresponde a todas as tarefas que precisam ser realizadas em algum
+momento. O backlog é um artefato fundamental no planejamento da execução das tarefas, pois reúne
+todas as tarefas de um projeto. Algumas dessas tarefas estão relacionadas à criação de novas
+funcionalidades de um produto, ou melhoria de um serviço, enquanto outras estão relacionadas
+à correção de falhas. Portanto, precisamos de metodologias e criatividade para fazer a gestão
+efetiva do backlog de um projeto.
+43. No dia a dia das empresas, fatores como competição e compromissos financeiros
+pressionam os gestores a obter resultados excelentes. Nesse cenário, a gestão do tempo
+torna-se ainda mais importante. Um recurso muito útil para otimizar o tempo dos
+tomadores de decisão é o dashboard. Nesse sentido, selecione a opção correta a seu
+respeito.
+As principais informações são organizadas visualmente nos dashboards.
+44. Informações visuais são um excelente recurso didático para dar explicações. Isso ocorre
+também no mundo das organizações por meio do dashboard. Infelizmente, não existe um
+procedimento padrão de como criar um dashboard; no entanto, há um consenso do que
+não deve ser colocado nele. Nesse sentido, selecione a opção correta a respeito das
+informações que devem compor um dashboard.
+Deve constar apenas dos indicadores principais e dos respectivos gráficos.
+De fato, os gráficos são um importante recurso visual que auxilia na compreensão das
+informações representadas pelos KPIs. Quando utilizarmos dashboards, precisamos resumir
+essas informações, destacando apenas os principais indicadores para que os tomadores de
+decisão possam concentrar sua atenção.
+45. A afirmativa "Trata-se de uma ferramenta com bastante flexibilidade que permite a
+seleção dos dados que devem ser analisados e visualizados em forma de gráficos",
+refere-se à?
+Dashboard
+46. Assim como existem vários modelos de dashboard, também há uma boa variedade de
+ferramentas para construí-los. Selecione a opção correta a respeito do uso de
+ferramentas computacionais para criar e gerenciar dashboards.
+Os programas para criar e gerenciar dashboards podem ter recursos muito diferentes
+47. A maturidade em relação ao alinhamento estratégico apresenta 5 níveis. Marque a opção
+CORRETA sobre processos otimizados.
+Neste nível acontece um alto grau de alinhamento estratégico.
+48. Sobre PLANEJAMENTO TÁTICO, podemos afirmar que:
+Foca o aperfeiçoamento em uma determinada área de resultado e não a empresa como
+um todo.
+Impresso por Gabriel de Paula Santana, E-mail gabrielsantana7791@gmail.com para uso pessoal e privado. Este material pode ser
+protegido por direitos autorais e não pode ser reproduzido ou repassado para terceiros. 15/08/2024, 19:10:47
+Indicadores de Desempenho de TI
+Marcio Quirino - 12
+49. Os KPIs estratégicos são um poderoso instrumento para a gestão dos negócios. Neste
+sentido, marque a alternativa correta em relação a uma vantagem de utilizá-los. Auxiliam na padronização das análises.
+50. Os dashboards são um recurso de gestão que tem foco no resumo das principais
+informações de um negócio. Em relação à utilização dos dashboards, marque a
+alternativa correta.
+São instrumentos de análise focados nos principais KPIs
+51. Um dashboard é um painel de exibição visual dos principais indicadores de uma
+organização. Em relação ao público-alvo do dashboard, marque a alternativa correta
+Tem foco nos tomadores de decisão
+52. É fundamental que os gestores utilizem critérios que auxiliem na priorização das tarefas.
+A respeito da priorização de tarefas dentro de um projeto, marque a alternativa correta:
+Devem ser considerados múltiplos critérios
+53. As métricas operacionais são de extrema importância para que os gestores tenham um
+instrumento avaliativo. Em relação às métricas operacionais, marque a alternativa
+correta. Estão relacionadas às tarefas fins da empresa.
+54. Marque a opção CORRETA sobre métrica de infraestrutura.
+Capacidade de serviços
+55. Considere a seguinte situação:
+"Todos os setores da nossa empresa possuem KPIs, logo temos uma gestão efetiva"
+Agora, selecione a opção correta a respeito da afirmação acima.
+É falsa, pois apenas a criação de KPIs não é suficiente para garantir uma gestão efetiva.
+56. Sobre KPI (KEY PERFORMANCE INDICATORS) é correto afirmar que:
+Tem uma estrutura na qual as ramificações são direcionadas de acordo com as ações
+que comporão o contexto
+57. O uso de KPIs é um importante fator no estudo da gestão efetiva. Neste sentido, marque
+a alternativa correta sobre o uso de KPIs (Key Performance Indicator).
+É uma qualificação sobre uma métrica
+58. A capacidade de escalar uma solução e uma meta estratégia importante para o
+crescimento de uma empresa. Por isso mesmo, e importante padronizar a forma de
+trabalhar. Neste sentido, selecione a opção correta a respeito da referida escalabilidade:
+O planejamento e o monitoramento da execução das tarefas são elementos da
+escalabilidade de uma solução.
+59. Nas organizações, em especial, nas de grande porte, é comum que ocorram projetos
+semelhantes em diferentes períodos. Nesse sentido, selecione a opção correta a respeito
+dessa situação.
+É importante usar sistemas de informação que permitam potencializar o aprendizado das
+equipes que trabalhem com projetos semelhantes.
+Impresso por Gabriel de Paula Santana, E-mail gabrielsantana7791@gmail.com para uso pessoal e privado. Este material pode ser
+protegido por direitos autorais e não pode ser reproduzido ou repassado para terceiros. 15/08/2024, 19:10:47
+Indicadores de Desempenho de TI
+Marcio Quirino - 1
+60. Os gestores responsáveis pelo planejamento estratégico das organizações estão
+constantemente na busca de identificação de oportunidades que possam melhorar o
+desempenho dos negócios. Selecione a opção correta a respeito da aplicação de metodologias
+ágeis para obter uma gestão eficiente.
+Aumenta a previsibilidade do projeto.
+61. Considere a seguinte situação: "Uma organização utiliza diversas ferramentas de TI que não são integradas"
+Agora, selecione a opção correta a respeito da efetividade competitiva em relação à organização
+da situação apresentada. É necessário que o portfólio de TI esteja conectado e integrado ao plano estratégico, para que
+obtenha efetividade competitiva.
+62. Modelos matemáticos são uma importante ferramenta para auxiliar na tomada de decisão de
+priorização de projetos. Nesse sentido, selecione a opção correta a respeito da aplicação desses
+modelos no dia a dia da priorização de projetos.
+É necessário contar com profissionais qualificados e colaboração para modelar um problema.
+63. Considere a frase abaixo utilizada por uma grande empresa: "Oferecer educação de qualidade
+para formar excelentes profissionais".
+Agora, selecione a opção correta sobre em que situação ela se encaixa.
+Missão
+64. As metodologias ágeis dispõem de diversas métricas bem definidas. Selecione a opção que
+contenha a metodologia ágil que utiliza o conceito de sprints e backlogs.
+Scrum.
+65. Considere a seguinte restrição:
+10x1+30x2+20x3≤ 25
+As variáveis x1, x2 e x3 só podem assumir os valores 0 ou 1. Nesse sentido, selecione a opção
+correta que contenha uma configuração que satisfaça a restrição.
+x1 = 0, x2=0 e x3=1
+66. Selecione a opção correta que contenha a característica que encaixa na capacidade da
+organização reconhecer a necessidade de contextualizar ao plano estratégico o uso de sistemas
+de informação.
+Consciente.
+67. Considere a frase: "Precisamos aumentar a quantidade de pessoas da empresa treinadas na ferramenta X em 10%
+em relação ao semestre passado"
+Agora, selecione a opção correta a respeito da frase. É necessário que a organização utilize sistemas de informação integrados para controlar quem
+recebeu o treinamento e quando recebeu.
+Impresso por Gabriel de Paula Santana, E-mail gabrielsantana7791@gmail.com para uso pessoal e privado. Este material pode ser
+protegido por direitos autorais e não pode ser reproduzido ou repassado para terceiros. 15/08/2024, 19:10:47
+Indicadores de Desempenho de TI
+Marcio Quirino - 2
+68. Na Era da Informação, é imprescindível que conheçamos as metodologias ágeis e como a boa
+utilização delas pode contribuir para a melhoria contínua dos processos de uma organização. Em
+relação às metodologias ágeis, selecione a opção correta que se refere ao incremento de
+atividades de um projeto. Adaptabilidade.
+69. O processo de gerenciamento dos riscos é fundamental para um bom acompanhamento em todos
+os níveis de uma organização, incluindo os estratégicos. Nesse sentido, o propósito da gestão
+de riscos é minimizar problemas que possam provocar alterações no planejamento, inclusive o
+estratégico. Nesse sentido, indique a opção a seguir que mostre o indicador mais adequado para
+ser usado nesta situação:
+KRI
+70. O RUP (Rational Unified Process) define uma série de workflows que representam agrupamentos
+de atividades a serem executadas pelas equipes. Ele define 2 eixos, um vertical, que representa
+o nível estático do processo e inclui as atividades, os produtos, os trabalhadores e os fluxos de
+trabalho; e um horizontal que representa o nível dinâmico do processo e abrange os ciclos. Assinale a alternativa que mostra as fases do eixo horizontal, na sequencia correta em que é
+apresentada em seu modelo:
+Concepção, Elaboração, Construção e Transição
+71. Quando tratamos de Estratégia organizacional, existe uma metodologia de gestão que busca
+descrever e traduzir a estratégia da organização por meio de diferentes perspectivas, integradas
+e relacionadas. É um método de administração focado no equilíbrio organizacional e que se
+baseia em quatro perspectivas básicas, são elas: finanças, clientes, processos internos e
+aprendizagem. Essas afirmações se referem a qual metodologia a seguir?
+Balanced Scorecard (BSC)
+72. SLA (Service Level Agreement) que em português significa Acordo de Nível de Serviço, é muito
+utilizado por empresas de TI no que diz respeito aos serviços utilizados. Em seu documento, são
+apresentadas as condições para a oferta dos serviços prestados. São vários os itens que podem
+compor um SLA, assinale a seguir a opção que descreve dois desses itens:
+Tempo de Resposta e Tempo de Resolução
+73. Famosa sigla quando se fala em gestão estratégica, KPI (Key Performance Indicator) ou Indicador
+Chave de Desempenho, em português, trata de indicadores que representam o desempenho de
+um processo. E traz uma visão dos resultados obtidos por uma empresa, permitindo
+compreender o seu funcionamento. Os KPIs podem ser utilizados em diferentes áreas e podem
+possuir diferentes configurações de acordo com a empresa. Ao serem coletados, os KPIs devem
+obrigatoriamente:
+gerar relatórios completos com a possibilidade de discussão sobre cada uma das variáveis
+identificadas
+Impresso por Gabriel de Paula Santana, E-mail gabrielsantana7791@gmail.com para uso pessoal e privado. Este material pode ser
+protegido por direitos autorais e não pode ser reproduzido ou repassado para terceiros. 15/08/2024, 19:10:47
+Indicadores de Desempenho de TI
+Marcio Quirino - 3
+74. Indicador de Desempenho é uma métrica ou combinação de métricas que tem o objetivo de dar
+informações que uma empresa usa para avaliar sua performance. Esses indicadores podem ser
+divididos em 3 classificações: Operacionais, Táticos e Estratégicos. Assinale a seguir a opção
+que descreve os Indicadores Estratégicos:
+São vinculados ao propósito da empresa, ao que ela deseja para o futuro.
+75. O Gerenciamento da Capacidade envolve várias partes de uma empresa de TI, pois vai desde
+demandas, clientes e times até a sua operação. O Gerenciamento da capacidade tem ligação com
+quase tudo no ITIL, devido ao seu total envolvimento no processo.
+Nesse sentido, numere a coluna da direita de acordo com sua correspondência com a coluna da
+esquerda, associando os processos que fazem parte do Gerenciamento da Capacidade.
+1. Gerenciamento da Demanda
+2. Dimensionamento de Aplicação
+3. Modelagem
+4. Plano de Capacidade
+5. Relatórios
+( ) responsável pelo gerenciamento da carga de trabalho na
+infraestrutura com o objetivo de utilizar melhor a capacidade atual
+ao invés de aumentá-la
+( ) possível a predição dos requisitos futuros da capacidade
+( ) relacionado à avaliação dos requisitos de capacidade das
+aplicações durante seu planejamento e desenvolvimento
+( ) conferem o desempenho da capacidade durante um período
+dado
+( ) desenhado a partir da base dos dados do BDC (banco de dados
+da capacidade), dados financeiros, dados do negócio, dados
+técnicos, etc.
+Com a coluna da direita preenchida, escolha a opção com a sequência correta da numeração:
+1-3-2-5-4
+76. Um processo de desenvolvimento de software é um conjunto de atividades relacionadas que
+levam à produção de um produto de software. Um dos modelos de processo de software mais
+conhecidos é o Rational Unified Process, também conhecido como RUP. O RUP define uma série
+de workflows que representam agrupamentos de atividades a serem executadas pelas equipes.
+Nesse sentido, numere a coluna da direita de acordo com sua correspondência com a coluna da
+esquerda, associando as atividades aos respectivos fluxos.
+1. Modelagem de negócios 2. Requisitos 3. Análise e projeto 4. Implementação
+5. Teste
+6. Implantação
+7. Gerenciamento de projetos
+( ) cria-se um modelo de projeto com base em modelos de arquitetura, de
+componente, de objeto e de sequência;
+( ) esse workflow de apoio gerencia o processo de desenvolvimento do
+software;
+( ) os componentes do software são implementados;
+( ) o teste é um processo iterativo e é efetuado em conjunto com a
+implementação do sistema;
+( ) os processos de negócios são modelados com a utilização de casos de
+uso de negócio;
+( ) cria-se uma versão do produto e instala-a no local de trabalho dos
+usuários;
+( ) os casos de usos são criados para modelar os requisitos do software;
+Com a coluna da direita preenchida, escolha a opção com a sequência correta da numeração:
+3-7-4-5-1-6-2
+77. (UFRA/2016) Sobre os mapas estratégicos associados ao Balanced Scorecard (BSC), nos termos
+do que foi definido por seus autores (Robert Kaplan e David Norton), avalie se as afirmações
+abaixo são verdadeiras (V) ou falsas (F):
+Impresso por Gabriel de Paula Santana, E-mail gabrielsantana7791@gmail.com para uso pessoal e privado. Este material pode ser
+protegido por direitos autorais e não pode ser reproduzido ou repassado para terceiros. 15/08/2024, 19:10:47
+Indicadores de Desempenho de TI
+Marcio Quirino - 4
+( ) O mapa estratégico do balanced scorecard explicita a hipótese da estratégia.
+( ) O mapa estratégico descreve o processo de transformação de ativos intangíveis em resultados
+tangíveis para os clientes e, por conseguinte, em resultados financeiros
+( ) O mapa estratégico do balanced scorecard é uma arquitetura genérica para a descrição da
+estratégia.
+( ) Os mapas estratégicos impedem que as organizações públicas e privadas vejam as suas
+estratégias de maneira coesiva, integrada e sistemática.
+A sequência correta é:
+F; V; V; F
+78. ITIL significa Information Technology Infrastructure Library, ou em português, Biblioteca de
+Infraestrutura de Tecnologia da Informação. Trata-se de um conjunto de boas práticas,
+mundialmente conhecidas e utilizadas, que pode ser implementado para organizar e otimizar o
+gerenciamento de TI de uma empresa. O foco da metodologia ITIL é alinhar os serviços e
+processos da tecnologia da informação com as necessidades e objetivos do negócio. Assinale
+a alternativa que indica um dos objetivos da melhoria contínua de serviço descrita pelo ITIL:
+Melhorar a eficácia e a eficiência dos processos e serviços, bem como sua relação custo- benefício.
+79. Marque a opção CORRETA sobre categorias de indicadores de desempenho
+Indicadores de qualidade agem no controle da manutenção da conformidade durante um
+processo produtivo.
+80. Os passos importantes para cumprimento de metas são: planejamento, dedicação e cooperação.
+Marque a opção que apresenta as características com base nesses passos respectivamente.
+Devem ser organizados logo após o estabelecimento de objetivos e metas - manter foco no
+propósito inicial com a prática de cumprir cada meta estabelecida - todos os participantes devem
+estar comprometidos em suas metas.
+81. Observe a afirmativa abaixo e marque a opção que esteja de acordo com esta afirmativa.
+“Representa um suporte à estratégia de negócios de uma empresa provido por estruturas
+organizacionais, sistemas de informação, processos, habilidades humanas, recursos e
+incentivos”.
+Alinhamento estratégico
+82. Marque a opção CORRETA sobre dashboard operacional. Este tipo de dashboard é basicamente utilizado pelas equipes de trabalho que focam diretamente
+processos específicos e com consequente análises especificas.
+83. Qual a vantagem do uso de dashboard que se enquadra na afirmativa: “O uso de dashboard é
+muito importante para a análise de processos e fluxos de atividades”?
+Correção de falhas
+84. A afirmativa "atua como ferramenta para algumas metodologias de gestão, principalmente BSC
+(Balanced Scorecard)", está relacionada a que tipo de dashboard?
+Dashboard executivo
+Impresso por Gabriel de Paula Santana, E-mail gabrielsantana7791@gmail.com para uso pessoal e privado. Este material pode ser
+protegido por direitos autorais e não pode ser reproduzido ou repassado para terceiros. 15/08/2024, 19:10:47
+Indicadores de Desempenho de TI
+Marcio Quirino - 5
+85. A necessidade de se fazer uma avaliação constante da equipe para a possível detecção de
+problemas no processo de produção, e uma afirmativa que refere-se à?
+Uso de software para medição da qualidade da equipe
+86. Com relação as características das métricas pode-se afirmar que:
+Variáveis quantitativas e base para calcular o desempenho, estão relacionados a descrição.
+87. Qual das opções abaixo NÃO está ligada ao conceito de BSC (Balanced Scorecard)?
+Desempenho operacional
+88. Qual das opções abaixo não está diretamente ligado a BSC (Balanced Scorecard)?
+Gestão participativa
+89. Qual das opções abaixo NÃO está relacionada ao conceito de BSC (Balanced Scorecard)
+Processos gerenciais
+90. De acordo com a classificação das aplicações das ferramentas tecnológicas, aplicações para
+armazenamento e gerenciamento do conhecimento está relacionada à?
+Armazenamento do conhecimento (Knowledge Repository)
+91. Qual das opções abaixo NÃO está relacionada a indicadores na rotina das organizações?
+Estabelece metas para as medidas
+92. Número de bugs críticos por versões lançadas é um exemplo de métrica de:
+Desenvolvimento
+93. Qual das opções abaixo representa fluxo de valor com base nos princípios Lean Thinkink?
+Consciência dos processos internos e que também tenha perfeita noção de todos os
+stakeholders, tendo assim a capacidade de garantir a entrega de valor.
+94. Sobre os objetivos estratégicos após a construção de um BSC, o que representa o objetivo
+VISÃO?
+Tradução a partir de objetivos e indicadores
+95. Quais as características do benefício de uso de dashboards de otimização de tempo e recursos?
+Há uma colaboração direta para a otimização das rotinas do dia a dia, contribuindo para a
+redução do tempo gasto com rotinas fazendo com que os recursos sejam direcionados para as
+tarefas que realmente interessem em um momento específico.
+96. Sobre PLANEJAMENTO EM SISTEMA DE MEDIÇÃO DE DESEMPENHO, é correto afirmar que:
+Tem condição de identificar e determinar as melhores estratégias para os objetivos
+determinados.
+97. A formalização documentada das metodologias de desenvolvimento e implantação estabelecidas
+são características de?
+Planejamento operacional
+Impresso por Gabriel de Paula Santana, E-mail gabrielsantana7791@gmail.com para uso pessoal e privado. Este material pode ser
+protegido por direitos autorais e não pode ser reproduzido ou repassado para terceiros. 15/08/2024, 19:10:47
+Indicadores de Desempenho de TI
+Marcio Quirino - 6
+98. Marque a opção CORRETA sobre perspectivas estratégicas em uma visão estratégica.
+Aprendizado e crescimento “Para alcançarmos nossa visão, como sustentaremos nossa
+capacidade de mudar e melhorar”
+99. Marque a opção correta sobre a categoria processos, estrutura e valores:
+Têm a finalidade de dar uma visão sobre a empresa, abordando questões como valores, modo
+de ação assim como a sua organização
+100. A afirmativa “Saber identificar a fonte de um problema e fator crucial como diferencial
+competitivo”, está ligada à?
+Medição de desempenho
+101. A afirmativa “está relacionado à formulação de objetivos com vistas à programas de ação e
+para suas execuções, tendo como base as condições internas e externas da empresa”, refere-se
+à?
+Planejamento estratégico
+102. Sobre PERSPECTIVA DE PROCESSOS INTERNOS, pode-se afirmar que:
+Aborda a excelência dos processos internos para a satisfação de clientes e acionistas
+103. O resultado de processos e de produtos que podem ser avaliados e comparados com as metas,
+padrões, referenciais e outros tipos de processos e produtos refere-se à?
+Desempenho
+104. A afirmativa “São obtidas através de periódicos, jornais, sites, que possuam importância para
+a gestão da empresa”, refere-se à?
+Informações qualitativas
+105. Sobre desempenho podemos afirmar que?
+Representa o resultado de processos e de produtos que podem ser avaliados e comparados com
+as metas, padrões, referenciais e outros tipos de processos e produtos.
+106. Possuir vários métodos capazes de manter uma organização para direção e monitoramento do
+desempenho de uma empresa, atuando em diferentes níveis, e uma característica de?
+Governança de TI
+107. Marque a opção que apresenta ERRO sobre INDICADORES DE DESEMPENHO DE QUALIDADE.
+Têm a característica de fornecer uma visão bem ampla dos objetivos e metas de forma
+generalizada de uma organização e fazer uma análise confrontando ações anteriores com
+resultados atualizados.
+108. Traduzir as estratégias definidas em objetivos estratégicos específicos, e uma ação ligada à?
+Processo de BSC
+109. Marque a opção CORRETA sobre o atributo ESTABILIDADE para os indicadores.
+Mantem uma linha lógica de evolução onde os mesmos parâmetros servem de base.
+110. Indicadores de impacto representa uma categoria de que tipo de indicadores de desempenho?
+Indicadores de performance
+Impresso por Gabriel de Paula Santana, E-mail gabrielsantana7791@gmail.com para uso pessoal e privado. Este material pode ser
+protegido por direitos autorais e não pode ser reproduzido ou repassado para terceiros. 15/08/2024, 19:10:47
+Indicadores de Desempenho de TI
+Marcio Quirino - 7
+111. O objetivo principal de um dashboard é?
+Propiciar uma organização dos dados financeiros do negócio de uma empresa
+112. Marque a opção ERRADA sobre características dos objetivos. Devem ser mensurados apenas de forma qualitativa
+113. Sobre perspectiva financeira o que representa ESTÁGIO DE SUSTENTAÇÃO?
+Medidas financeiras tradicionais (retorno sobre o capital investido, lucro operacional e margem
+bruta, por exemplo)
+114. Qual das opções abaixo NÃO representa um tipo de indicadores de desempenho de processos?
+Indicadores de performance
+115. Os indicadores podem garantir a eficácia dos negócios em uma empresa, assim como a
+otimização das políticas internas. Qual das opções abaixo contém ERRO sobre a utilização do
+departamento de TI na estratégia dos indicadores?
+Notificar os gestores sobre problemas técnicos
+116. A implementação da metodologia BSC segue um conjunto de passos. Qual das opções abaixo
+apresenta ERRO com relação a esses passos?
+ANALISAR E AVALIAR A ORGANIZAQAO - As perspectives que definirão e avaliarão a estratégia
+da organização deverão ser identificadas nesta frase.
+117. Qual das opções abaixo apresenta ERRO com relação a determinação do indicador-chave?
+A indicação e todas as tendencias deve ser adotada
+118. A maturidade em relação ao alinhamento estratégico apresenta 5 níveis. Marque a opção que
+NÃO está de acordo com estes níveis.
+Produção puxada
+119. O BSC aborda quatro perspectivas estratégicas: Perspectiva financeira, Perspectiva do
+mercado, Perspectiva de processos internos e Perspectiva de aprendizado. Marque a opção
+CORRETA sobre perspectiva de mercado.
+Aborda os objetivos financeiros que devem ser seguidos para a satisfação dos clientes.
+120. A metodologia Information Technology Balanced Scorecard (IT-BSC), e utilizada para
+construção do mapa estratégico promovendo uma relação de causa e efeito, possibilitando ações
+que devidamente coordenadas viabilizam as estratégias de TI.
+Marque a opção CORRETA sobre a perspectiva ORIENTAÇÃO OPERACIONAL. Eficiência e eficácia dos processos de TI.
+121. A afirmativa “Resultados numéricos que são apresentados nos indicadores de um determinado
+processo”, refere-se à?
+Índices
+122. Traduzir as estratégias definidas em objetivos estratégicos específicos, é uma ação ligada à?
+Processo de BSC
+Impresso por Gabriel de Paula Santana, E-mail gabrielsantana7791@gmail.com para uso pessoal e privado. Este material pode ser
+protegido por direitos autorais e não pode ser reproduzido ou repassado para terceiros. 15/08/2024, 19:10:47
+Indicadores de Desempenho de TI
+Marcio Quirino - 8
+123. Qual das opções abaixo NÃO representa uma técnica de coleta de dados?
+Reuniões
+124. Dos pontos abordados pelas métricas, NÃO podem ser considerados:
+Valor de investimento financeiro
+125. O monitoramento de desempenho com ações de auditoria e constante avaliação das atividades
+para que se possa verificar se a direção está sendo devidamente seguida, está relacionado à?
+Metas de desempenho
+126. O planejamento da coleta de dados tem como principal característica reduzir os custos e
+simplificar o processo de coleta. Marque a opção que contém ERRO quanto a esta afirmativa:
+Elaborar novos instrumentos de coletas sem adaptação dos já utilizados
+127. Sistemas colaborativos com a finalidade de incentivar e capacitar funcionários para
+colaboração com diversas tarefas que estejam contempladas na empresa, refere-se à?
+GROUPWARE
+128. O desempenho de uma empresa poderá ser medido por um conjunto de indicadores que
+deverão ser estabelecidos de forma antecipada com intuito de atender às demandas das
+atividades da organização, para que possam servir como meio de análise do alcance das metas
+estabelecidas. Um indicador visa melhorar a avaliação interna de uma organização monitorando
+o desempenho dos processos. Para representa um valor de desvio abaixo da meta que serve
+como parâmetro, caso o indicador aponte para valores abaixo de uma faixa, é um sinal de
+comportamento crítico para o processo. Marque a opção que representa essa medição de desempenho.
+Tolerância
+129. Em alguns casos, as informações obtidas através de relatórios, gráficos e planilhas podem não
+ser suficientes para as devidas análises por parte dos interessados. Por conta disso, os
+dashboards se caracterizam como ferramentas de visualização de dados que facilitam o
+monitoramento de indicadores e consequentemente dos projetos de uma organização.
+Marque a opção que NÃO apresenta um benefício de dashboard.
+Redução da análise competitiva.
+130. O COBIT apresenta uma abordagem na qual os objetivos de desempenho podem ser
+demonstrados por dois tipos de indicadores. Um desses indicadores, representa a meta do
+processo, uma medida sobre ¿o que¿ deve ser atingido. É um indicador mensurável de um alvo
+a ser atingido. Está relacionado com o alinhamento da TI ao negócio da organização e a gestão
+do risco que a TI representa para o negócio.
+Marque a opção que apresenta esse indicador.
+KGI - KEY GOAL INDICA TORS
